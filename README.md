@@ -89,7 +89,7 @@
   <body>
     <!-- Navigation bar -->
     <div class="navbar">
-      <img src="profile.JPG" alt="edgar">
+      <img src="https://www.facebook.com/photo.php?fbid=1241136956254476&set=pb.100010745507994.-2207520000.&type=3" alt="edgar">
       <p>Okwel Edgar Mark</p>
       <a href="contact.html">Contact me</a>
       <a href="https://okwelmark.github.io/simu/">Contact me</a>
@@ -124,10 +124,10 @@
         <div class="container">
           <p>Connect with me on</p>
           <div class="social-media">
-            <a href="https://www.facebook.com/">facebook<img src="facebook.WEBP" alt="Facebook"></a>
-            <a href="https://twitter.com/">twitter<img src="twitter.PNG" alt="Twitter"></a>
-            <a href="https://www.instagram.com/">instagram<img src="instagram.JFIF" alt="Instagram"></a>
-            <a href="https://www.linkedin.com/">linkedin<img src="linkin.PNG" alt="LinkedIn"></a>
+            <a href="https://www.facebook.com/">facebook<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ff.hubspotusercontent30.net%2Fhubfs%2F2235233%2Fblog-import%2F2020%2F20-08-Aug%2Fsm-icons-facebook-logo.png&imgrefurl=https%3A%2F%2Fwww.sendible.com%2Finsights%2Fsocial-media-icons&tbnid=wsFwoY6ZzDXxzM&vet=12ahUKEwiS_Zy8lc39AhXrWaQEHeECC9kQMygkegUIARC_Ag..i&docid=qw8nVxmTtjwi9M&w=512&h=512&q=social%20media%20logos&ved=2ahUKEwiS_Zy8lc39AhXrWaQEHeECC9kQMygkegUIARC_Ag" alt="Facebook"></a>
+            <a href="https://twitter.com/">twitter<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOiQB4lk-g-l7ICj3criCteXV7k-n9-_7D-w&usqp=CAU" alt="Twitter"></a>
+            <a href="https://www.instagram.com/">instagram<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2F2235233.fs1.hubspotusercontent-na1.net%2Fhubfs%2F2235233%2Fblog-import%2F2022%2F07-22-Jul%2Fevery-social-media-logo-and-icon-in-one-handy-place-instagram.png&imgrefurl=https%3A%2F%2Fwww.sendible.com%2Finsights%2Fsocial-media-icons&tbnid=F0gwSkqqFZx5NM&vet=12ahUKEwiS_Zy8lc39AhXrWaQEHeECC9kQMygKegUIARCCAg..i&docid=qw8nVxmTtjwi9M&w=900&h=900&q=social%20media%20logos&ved=2ahUKEwiS_Zy8lc39AhXrWaQEHeECC9kQMygKegUIARCCAg" alt="Instagram"></a>
+            <a href="https://www.linkedin.com/">linkedin<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ff.hubspotusercontent30.net%2Fhubfs%2F2235233%2Fblog-import%2F2020%2F20-08-Aug%2Fsm-icons-linkedin-in-logo.png&imgrefurl=https%3A%2F%2Fwww.sendible.com%2Finsights%2Fsocial-media-icons&tbnid=DPfJKmUIg3wiqM&vet=12ahUKEwiS_Zy8lc39AhXrWaQEHeECC9kQMygTegUIARCWAg..i&docid=qw8nVxmTtjwi9M&w=635&h=540&q=social%20media%20logos&ved=2ahUKEwiS_Zy8lc39AhXrWaQEHeECC9kQMygTegUIARCWAg" alt="LinkedIn"></a>
           </div>
         </div>
       </fieldset>
