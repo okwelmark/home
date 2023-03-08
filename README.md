@@ -115,7 +115,7 @@
        With this website, you'll discover potential. 
     </p>
     <p>
-      Join us on this journey of discovery and let's transform software engineering together.
+      Join us on this journey of discovery and let's transform software engineering together..
     </p>
     </div>
     </fieldset>
